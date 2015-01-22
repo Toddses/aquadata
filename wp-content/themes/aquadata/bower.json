@@ -1,0 +1,23 @@
+{
+  "name": "aquadata",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Toddses/aquadata",
+  "authors": [
+    "Todd Miller <todd@rainydaymedia.net>"
+  ],
+  "description": "Theme for AquaData website",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "velocity": "~1.2.1",
+    "font-awesome": "~4.2.0"
+  }
+}
